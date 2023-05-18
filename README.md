@@ -3,18 +3,14 @@
 
 This is the Software presented in the ing.grid Publication:
 
-(Genaue Zitation folgt noch)
+https://preprints.inggrid.org/repository/view/16/
 
 
-## Developing
+## WE MOVED :
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Please find our official GitLab Repository here:
+https://gitlab.com/tuc-isse/public/betty-research-engine/
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+You can try out our prototype here : http://nfdi4ing.rz-housing.tu-clausthal.de/
 
 
